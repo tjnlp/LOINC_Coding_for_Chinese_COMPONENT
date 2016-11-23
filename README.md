@@ -1,0 +1,1 @@
+# LOINC_Coding_for_Chinese_COMPONENT
